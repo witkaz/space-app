@@ -1,0 +1,33 @@
+{
+  "pilots": [
+    {
+      "id": 1,
+      "firstName": "Paweł",
+      "lastName": "Kowalski",
+      "imageUrl": "/src/assets/pilots-img/pilot-adam-anonimowy.jpg"
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Simmons",
+      "imageUrl": "/src/assets/pilots-img/pilot-ben-simmons.jpg"
+    },
+    {
+      "id": 3,
+      "firstName": "Kawhi",
+      "lastName": "Leonard",
+      "imageUrl": "/src/assets/pilots-img/pilot-jan-kowalski.jpg"
+    }
+  ],
+  "forbidden-names": [
+    {
+      "name": "Maruda"
+    },
+    {
+      "name": "Ciamajda"
+    },
+    {
+      "name": "Gapcio"
+    }
+  ]
+}
